@@ -9,7 +9,7 @@ If i'm not coding...... "im still coding lol"
 
 proficient:
 
-<img src="images/Html_logo.svg" width="7%" > <img src="Css_logo.svg" width="7%" > <img src="Sass_logo.svg" width="7%" > <img src="Javascript_logo.svg" width="7%" >  <img src="React_logo.svg" width="7%" > 
+<img src="images/Html_logo.svg" width="7%" > <img src="images/Css_logo.svg" width="7%" > <img src="images/Sass_logo.svg" width="7%" > <img src="images/Javascript_logo.svg" width="7%" >  <img src="images/React_logo.svg" width="7%" > 
 
 
 
