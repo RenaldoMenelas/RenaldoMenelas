@@ -13,4 +13,4 @@ proficient:
 
 
 
-porfolio: https://renaldomenelas.github.io/portfolio/
+porfolio: https://renaldomenelas.github.io/Portfolio-2.0/
