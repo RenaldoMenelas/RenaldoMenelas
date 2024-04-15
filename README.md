@@ -1,5 +1,5 @@
 👋 Hi, I’m Renaldo
-- A Frontend developer based in NYC. Passionate about continuing my learning and sharpening skills and bringing them to light.
+- A Software Engineer based in NYC. Passionate about continuing my learning and sharpening skills and bringing them to light.
 - super passionate about building projects and bringing my experience in web deveolpment into new hands and new eyes.
 - I aspire one day to lead a team of developers and provide my expertise and value to complete an application used worldwide. 
 
